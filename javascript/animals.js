@@ -116,23 +116,3 @@ export const animals = [
       url:    'https://unsplash.com/photos/h13Y8vyIXNU'
     }
   ];
-
-
-  // animals.forEach(function(animal){
-  //   console.log(animal.title);
-  // });
-  
-
-
-
-
-
-
-  // animals.forEach(function(item){
-  //   console.log(item);
-  //   imgTemplate = '';
-
-  //   `<figure>
-  //   <a href="${item.download_url}">
-  //     <img src="https://unsplash.com/photos/`
-  // })
