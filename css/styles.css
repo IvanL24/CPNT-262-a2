@@ -47,6 +47,13 @@ header h1 {
 
 }
 
+.gallery .card img {
+
+  border: 2px solid white;
+  border-radius: 9px;
+
+}
+
 .gallery .card figcaption {
 
   border: 1px solid black;
