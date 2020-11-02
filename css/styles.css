@@ -4,6 +4,8 @@ body {
 
   background-color: rgb(52, 94, 133);
 
+  font-family: la;
+
 }
 
 header {
@@ -44,6 +46,7 @@ header h1 {
   justify-content: center;
   flex-direction: column;
 
+  margin: 1em;
 }
 
 .gallery .card img {
