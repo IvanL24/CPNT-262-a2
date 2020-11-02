@@ -22,10 +22,9 @@ header h1 {
 
 .gallery {
 
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  
   max-width: 90vw;
 
   margin: auto 60px;
