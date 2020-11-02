@@ -8,8 +8,6 @@
 
   * GH Pages: [https://ivanl24.github.io/CPNT-262-a2/]
 
-  * Codepen :
-
 ## Attributions
 
   * formats used in this project:
